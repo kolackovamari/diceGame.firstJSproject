@@ -1,0 +1,49 @@
+body {
+    background-color: #9FBB73;
+}
+
+.container {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+h1 {
+    color: #EC8F5E;
+    font-size: 6rem;
+    text-shadow: 4px 0 #557C55;
+    margin: 30px;
+    font-family: 'Rubik Scribble', system-ui;
+}
+
+p {
+    color: #E3651D;
+    font-size: 2.5rem;
+    text-shadow: 1.6px 0 #557C55;
+    margin: 30px;
+    font-family: 'Rubik Scribble', system-ui;
+}
+
+h3 {
+    color: #004225;
+    font-size: 1.5rem;
+    font-family: 'Bungee Shade', sans-serif;
+    margin-top: 0px;
+}
+
+img {
+    width: 80%;
+}
+
+h4 {
+    font-size: 14px;
+    color: #D83F31;
+    text-align: center;
+    margin-top: 3%;
+    font-family: 'Bayon', sans-serif;
+}
